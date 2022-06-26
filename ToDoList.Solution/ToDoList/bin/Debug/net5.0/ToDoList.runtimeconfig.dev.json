@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sinchrone\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sinchrone\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\todolist\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\todolist\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\todolist\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\todolist\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\Sinchrone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\Sinchrone\\documents\\epicodus\\toDoList\\todolist.solution\\todolist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sinchrone\\AppData\\Roaming\\NuGet\\NuGet.Config"
