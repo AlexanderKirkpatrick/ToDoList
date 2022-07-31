@@ -14,6 +14,7 @@
 
 @foreach (Item item in Model)
 {
+  @Html.CheckBox("TaskComplete", @item.TaskComplete)
   <li>@Html.ActionLink($"{item.Description}", "Details", new { id = item.ItemId })</li>
 }
 

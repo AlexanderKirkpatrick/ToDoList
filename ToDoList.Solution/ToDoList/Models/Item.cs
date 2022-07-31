@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace ToDoList.Models
@@ -7,10 +8,12 @@ namespace ToDoList.Models
     public Item()
     {
       this.JoinEntities = new HashSet<CategoryItem>();
+      TaskComplete = false;
     }
     public int ItemId { get; set; }
     public string Description { get; set; }
-    
+    public bool TaskComplete { get; set; }
+    public DateTime DueDate { get ; set; }
     public virtual ICollection<CategoryItem> JoinEntities { get;}
   }
 }
